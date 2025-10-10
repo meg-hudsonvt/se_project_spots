@@ -32,3 +32,7 @@ In the image below you can see the buttons used to edit your profile and to add 
 In the image below you can see the heart button that is used to "like" someone's photo.
 
 ![like button](./images/Screenshot%202025-10-10%20111336.png)
+
+## Link to webpage
+
+https://meg-hudsonvt.github.io/se_project_spots/
