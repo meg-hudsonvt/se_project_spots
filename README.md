@@ -36,3 +36,9 @@ In the image below you can see the heart button that is used to "like" someone's
 ## Link to webpage
 
 https://meg-hudsonvt.github.io/se_project_spots/
+
+## Project Pitch Video
+
+Check out my video below where I walk you through my project and discuss some of the challenges I faced along the way.
+
+https://drive.google.com/file/d/1h7xQ8dWJvYsY2Qa51VJZrlwHFmsYBHir/view?usp=sharing
