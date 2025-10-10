@@ -1,21 +1,34 @@
 # Project 3: Spots
 
-### Overview  
+This is the third project of the Software Engineering program at TripleTen. This is an interactive webpage that will eventually allow users to create their own profiles and upload photos of their choice to share on their page. Viewers will be able to "like" their photos by pressing the heart underneath each photo. It is a page with a responsive design that is functional and visually appealing for desktop, tablet, or mobile screens. It was created using HTML and CSS, based on the design brief.
 
-* Intro  
-* Figma  
-* Images  
-  
-**Intro**
-  
-This project is made so all the elements are displayed correctly on popular screen sizes. We recommend investing more time in completing this project, since it's more difficult than previous ones.  
-  
-**Figma**  
-  
-* [Link to the project on Figma](https://www.figma.com/file/BBNm2bC3lj8QQMHlnqRsga/Sprint-3-Project-%E2%80%94-Spots?type=design&node-id=2%3A60&mode=design&t=afgNFybdorZO6cQo-1)
-  
-**Images**  
-  
-The way you'll do this at work is by exporting images directly from Figma — we recommend doing that to practice more. Don't forget to optimize them [here](https://tinypng.com/), so your project loads faster. 
-  
-Good luck and have fun!
+## Project features
+
+- Semantic HTML5
+- Flexbox
+- Positioning
+- Flat BEM file structure
+- Responsive layout using media queries and grid layout making the webpage compatible with desktop, tablet, or mobile screens
+- Grid layout
+
+## Images
+
+In the image below you can see an example of what the page will look like when using a mobile device.
+
+![mobile view](<Screenshot 2025-10-10 111131.png>)
+
+In the image below you can see an example of what the page will look like when using a tablet.
+
+![tablet view](<Screenshot 2025-10-10 111103.png>)
+
+In the image below you can see an example of what the page will look like when using a desktop computer.
+
+![desktop view](<Screenshot 2025-10-10 111150.png>)
+
+In the image below you can see the buttons used to edit your profile and to add a new post.
+
+![edit and add buttons](<Screenshot 2025-10-10 111308.png>)
+
+In the image below you can see the heart button that is used to "like" someone's photo.
+
+![like button](<Screenshot 2025-10-10 111336.png>)
