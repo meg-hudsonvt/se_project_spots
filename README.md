@@ -15,20 +15,20 @@ This is the third project of the Software Engineering program at TripleTen. This
 
 In the image below you can see an example of what the page will look like when using a mobile device.
 
-![mobile view](<Screenshot 2025-10-10 111131.png>)
+![mobile view](./images/Screenshot%202025-10-10%20111131.png)
 
 In the image below you can see an example of what the page will look like when using a tablet.
 
-![tablet view](<Screenshot 2025-10-10 111103.png>)
+![tablet view](./images/Screenshot%202025-10-10%20111103.png)
 
 In the image below you can see an example of what the page will look like when using a desktop computer.
 
-![desktop view](<Screenshot 2025-10-10 111150.png>)
+![desktop view](./images/Screenshot%202025-10-10%20111150.png)
 
 In the image below you can see the buttons used to edit your profile and to add a new post.
 
-![edit and add buttons](<Screenshot 2025-10-10 111308.png>)
+![edit and add buttons](./images/Screenshot%202025-10-10%20111308.png)
 
 In the image below you can see the heart button that is used to "like" someone's photo.
 
-![like button](<Screenshot 2025-10-10 111336.png>)
+![like button](./images/Screenshot%202025-10-10%20111336.png)
